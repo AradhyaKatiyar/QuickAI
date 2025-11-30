@@ -8,9 +8,9 @@ import fs from 'fs'
 //import { pdfParse } from "pdf-parse/node";
 // import pkg from "pdf-parse";
 // const pdf = pkg;
-import { createRequire } from "module";
-const require = createRequire(import.meta.url);
-const pdf = require("pdf-parse");
+// import { createRequire } from "module";
+// const require = createRequire(import.meta.url);
+// const pdf = require("pdf-parse");
 // import { default as pdf } from "pdf-parse";
 
 
